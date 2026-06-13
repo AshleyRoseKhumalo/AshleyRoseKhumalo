@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!;I'm+Ashley+Rose+Khumalo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=800&color=C71585&center=true&vCenter=true&width=900&height=90&lines=Hi+there!;I'm+Ashley+Rose+Khumalo." alt="Typing SVG" />
+
 
 <h3>Aspiring DevOps Engineer | Linux Enthusiast | Computer Science Graduate</h3>
 
