@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 🎓 I am a Computer Science graduate.
 * 🐧 I am currently focused on Linux, DevOps, and system administration.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode,html,css,js,python,mysql,aws,terraform" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
 * Linux System Administration
 * Version Control with Git and GitHub
@@ -48,7 +48,7 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 I will be adding my DevOps, Linux, and cloud projects here as I build them.
 
@@ -62,7 +62,7 @@ I will be adding my DevOps, Linux, and cloud projects here as I build them.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshleyRoseKhumalo&show_icons=true&theme=github_dark&hide_border=true" alt="Ashley's GitHub Stats" />
@@ -74,7 +74,7 @@ I will be adding my DevOps, Linux, and cloud projects here as I build them.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:ashleyrosekhumalo@gmail.com">
