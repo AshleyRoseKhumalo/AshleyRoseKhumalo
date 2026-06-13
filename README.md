@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=📌%20Current%20Focus&fontSize=32&fontColor=C71585&fontAlign=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%20Current%20Focus&fontSize=32&fontColor=C71585&fontAlign=50&fontAlignY=50" />
 </p>
 
 <div align="center">
@@ -58,7 +58,7 @@ Containerization and DevOps Workflow Practices
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=📂%20Projects&fontSize=32&fontColor=C71585&fontAlign=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%20Projects&fontSize=32&fontColor=C71585&fontAlign=50&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Containerization and DevOps Workflow Practices
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=📫%20Connect%20With%20Me&fontSize=32&fontColor=C71585&fontAlign=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%20Connect%20With%20Me&fontSize=32&fontColor=C71585&fontAlign=50&fontAlignY=50" />
 </p>
 
 <p align="center">
